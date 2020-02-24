@@ -1,7 +1,5 @@
 # Impact-of-News-Headlines-on-Stock-Indices
-Investigate the impact of general news headlines on Stock Indices
-
-The idea for this piece of work was to investigate the impact of general news headlines on golbal stock indices.
+The idea for this piece of work was to investigate the impact of general news headlines on global stock indices.
 
 The Guardian API was used to request all news articles between 2004 and 2019. Sentiment analysis was run on the news headlines using TextBlob and Vader. 
 
